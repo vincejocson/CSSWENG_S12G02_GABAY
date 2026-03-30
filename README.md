@@ -175,4 +175,16 @@ export function formatDate(date) {
 
 Contains all Handlebars .hbs templates.
 
+### Contributors
+
+Althea Brillantes
+Benjamin Barlaan
+Jose Simbillo
+Jusper Cesar
+Kyle Maristela
+Liam Ancheta
+Marty Tengco
+Owen San Luis
+Vince Jocson
+
 
